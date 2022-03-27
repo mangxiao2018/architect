@@ -62,3 +62,19 @@ services:
 
 ![image-20220327122231883](./images/image-20220327122231883.png)
 
+## 7、查看日志
+
+查看docker-compose下服务的日志
+
+```shell
+# docker-compose logs
+```
+
+## 8、查看状态 
+
+查看docker-compose下服务状态
+
+```shell
+# docker-compose ps
+```
+
