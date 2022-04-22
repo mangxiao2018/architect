@@ -182,7 +182,7 @@ WantedBy=multi-user.target
 ### 4.2、上传文件
 
 ```shell
-# curl -F file=@/home/zhangyanqing/seaweedfs-test/1.jpg 10.105.22.181:8080/1,018a6de507
+# curl -F file=@/home/mangxiao/seaweedfs-test/1.jpg 10.105.22.181:8080/1,018a6de507
 {"name":"1.jpg","size":43213,"eTag":"1ab46659"}
 ```
 
